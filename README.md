@@ -1,4 +1,4 @@
 # window-apis
 
-<img src="window-apis/img/screen.png" alt="screenshot" />
+![alt text](https://github.com/hyoeun93/window-apis/blob/main/window-apis/img/screen.png "Logo Title Text 1")
 
