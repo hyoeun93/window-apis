@@ -1,4 +1,4 @@
 # window-apis
 
-<img src="window-apis/img/target.png" alt="screenshot" />
+<img src="window-apis/img/screen.png" alt="screenshot" />
 
